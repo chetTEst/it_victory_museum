@@ -7,7 +7,7 @@ ____
 **II встреча:**
 ____
 
-##I встреча:
+## I встреча:
 
 Ссылка на Google презентацию I встречи, встречи от 24.02.2022 https://docs.google.com/presentation/d/19QVTm6koln9hvSzetjYgcWT9weYpSyB3ckwDB6InwF4/edit?usp=sharing
 
