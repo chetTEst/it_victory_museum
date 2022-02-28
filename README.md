@@ -8,6 +8,7 @@ ____
 ____
 
 ##I встреча:
+
 Ссылка на Google презентацию I встречи, встречи от 24.02.2022 https://docs.google.com/presentation/d/19QVTm6koln9hvSzetjYgcWT9weYpSyB3ckwDB6InwF4/edit?usp=sharing
 
 Презентация I встречи _«Что такое телеграмм бот.pdf»_ в формате **PDF** находится в корне этого проекта.
